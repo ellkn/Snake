@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590704782 source:c:\users\Нелли\desktop\СГТУ\2 СЕМЕСТР\Языки программирования с++\РГР\snakes\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+
